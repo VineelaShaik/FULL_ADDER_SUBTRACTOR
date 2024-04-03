@@ -61,8 +61,6 @@ endmodule
 */
 
 **RTL Schematic**
-
-
 ![Screenshot 2024-04-03 104845](https://github.com/VineelaShaik/FULL_ADDER_SUBTRACTOR/assets/144340862/789cd156-4fb3-4231-9ebc-1e12e81826bf)
 
 **Output Timing Waveform**
